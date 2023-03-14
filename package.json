@@ -12,6 +12,7 @@
 	"dependencies": {
 		"@types/node": "^18.15.0",
 		"dotenv": "^16.0.3",
+		"openai": "^3.2.1",
 		"prettier": "^2.8.4",
 		"qqbn": "1.0.0-rc1",
 		"ts-node": "^10.9.1",
