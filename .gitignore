@@ -1,0 +1,8 @@
+# node_modules
+node_modules
+
+# OICQ
+src/data
+
+# env
+.env
